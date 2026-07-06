@@ -1,3 +1,0 @@
-import{b as i,o as n,w as c,g as t,i as d,ad as a,v as m,x as l,T as o}from"./modules/vue-CV8Hj-ds.js";import{I as p}from"./slidev/center-B92ViSh_.js";import{u as f,f as u}from"./slidev/context-DGSuHJvE.js";import"./index-DPLY2JqQ.js";import"./modules/shiki-Cl_iIHIN.js";const C={__name:"1-intro.md__slidev_23",setup(x){const{$clicksContext:r,$frontmatter:s}=f();return r.setup(),(_,e)=>(n(),i(p,m(l(o(u)(o(s),22))),{default:c(()=>[...e[0]||(e[0]=[t("div",{class:"text-center"},[d(` <div class="text-2xl font-light tracking-wide uppercase text-gray-500 mb-4">
-    Part I
-  </div> `),t("div",{class:"text-5xl font-bold leading-tight"},[a(" Memorization in Diffusion "),t("br"),a(" & Flow Matching ")])],-1)])]),_:1},16))}};export{C as default};
