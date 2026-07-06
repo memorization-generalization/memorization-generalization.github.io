@@ -1,0 +1,3 @@
+import{b as n,o as i,w as c,g as t,i as d,ad as o,v as m,x as l,T as a}from"./modules/vue-CV8Hj-ds.js";import{I as p}from"./slidev/center-a5B4fOrQ.js";import{u as f,f as u}from"./slidev/context-Du6qv61q.js";import"./index-DL3n_7NX.js";import"./modules/shiki-Cl_iIHIN.js";const C={__name:"1-intro.md__slidev_8",setup(x){const{$clicksContext:r,$frontmatter:s}=f();return r.setup(),(_,e)=>(i(),n(p,m(l(a(u)(a(s),7))),{default:c(()=>[...e[0]||(e[0]=[t("div",{class:"text-center"},[d(` <div class="text-2xl font-light tracking-wide uppercase text-gray-500 mb-4">
+    Part I
+  </div> `),t("div",{class:"text-5xl font-bold leading-tight"},[o(" Introduction to"),t("br"),o(" Flow matching and Diffusion ")])],-1)])]),_:1},16))}};export{C as default};
