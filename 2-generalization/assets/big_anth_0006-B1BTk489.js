@@ -1,0 +1,1 @@
+const s="/2-generalization/assets/A_teddybear_on_a_skateboard_on_Times_Square-CldIWfAV.jpg",a="/2-generalization/assets/big_anth_0005_from_arch-BycRwGiW.jpg",_="/2-generalization/assets/dolphin-E7x2uw8J.jpg",t="/2-generalization/assets/big_anth_0006-DgiYuuDy.jpg";export{s as _,a,_ as b,t as c};

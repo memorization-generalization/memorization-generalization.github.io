@@ -1,0 +1,7 @@
+import{aK as r,b as p,o as t,w as u,g as e,ah as a,i as _,f as n,ad as i,v as g,x as v,T as m}from"./modules/vue-DfrW4hTl.js";import{_ as f,a as k,b as x,c as w}from"./big_anth_0006-B1BTk489.js";import{I as h}from"./slidev/default-CGgtwgTC.js";import{u as y,f as C}from"./slidev/context-CVOUzec1.js";import"./index-QLOyJHiV.js";import"./modules/shiki-BqhGTlCF.js";const b={style:{background:"white"},markdownSource:[10,11,40]},B={class:"mt-2 text-center text-xs",markdownSource:[28,29,38]},I={__name:"1-intro.md__slidev_2",setup(D){const{$clicksContext:d,$frontmatter:l}=y();return d.setup(),(S,s)=>{const c=r("click"),o=r("drag");return t(),p(h,g(v(m(C)(m(l),1))),{default:u(()=>[s[2]||(s[2]=e("h2",null,"Generative models: high dimensional density estimation",-1)),s[3]||(s[3]=e("div",{style:{display:"grid","grid-template-columns":".225fr .225fr",gap:"10px"}},[e("img",{src:f}),e("img",{src:k}),e("img",{src:x}),e("img",{src:w})],-1)),a((t(),n("div",b,[...s[0]||(s[0]=[e("div",{class:"message"},[e("p",null,[i("Diffusion & Flow matching models sample from "),e("strong",null,"high dimensional"),i(" densities")])],-1)])])),[[c],[o,[485,260,476,91]]]),_(` <div v-click style="background: white;" v-drag="[511,305,416,136]" :markdownSource="[18,19,45]">
+<div class="message">
+
+Curse of dimensionality
+
+</div>
+</div> `),a((t(),n("div",B,[...s[1]||(s[1]=[e("em",null,"DALL·E",-1),i(", Ramesh et al. ",-1)])])),[[o,[139,492,205,55]]])]),_:1},16)}}};export{I as default};
